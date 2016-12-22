@@ -1,6 +1,6 @@
 # Algorithm
 
-Word used by programmers when they do not want to explain what they did.
+> Word used by programmers when they do not want to explain what they did.
 
 建立这个Repo的目的在于，整理归并以前高中OI时所学过的算法，以及学习新的算法。
 
@@ -13,8 +13,6 @@ Word used by programmers when they do not want to explain what they did.
 - 最大公约数
 - 最小公倍数
 - 素数
-- RSA
-- ...
 
 ### 栈和队列
 - 栈
@@ -82,6 +80,28 @@ Word used by programmers when they do not want to explain what they did.
  - Dijkstra
 - 流网络
 
+## 密码学经典算法
+
+### 加密算法
+- 对称加密算法
+ - AES
+ - DES
+ - Blowfish
+- 非对称加密算法
+ - DSA
+ - RSA
+
+### 散列算法
+- MD
+ - MD2
+ - MD4
+ - MD5
+- SHA
+ - SHA-1
+ - SHA-256
+
 
 ## 整理算法
 
+### 密码学
+ - MerkleTree
